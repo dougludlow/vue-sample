@@ -1,6 +1,6 @@
 import Vue from 'vue';
 import { RestaurantDto } from './RestaurantDto';
-import { Restaurant } from './Restaurant';
+import { Restaurant } from '@/restaurants/Restaurant';
 
 export default {
     getRestaurants(): PromiseLike<Restaurant[]> {

@@ -5,7 +5,7 @@ import moment from 'moment';
 import store from './store';
 import './registerServiceWorker';
 
-(moment as any).locale('en', {
+(moment as any).updateLocale('en', {
     week: {
         dow: 1,
     },
