@@ -5,7 +5,7 @@ A Vue sample project
 ## Demo
 https://dougludlow.github.io/vue-sample/
 
-## Setup
+## Project setup
 ```
 yarn install
 ```
