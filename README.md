@@ -1,26 +1,28 @@
 # restaurantr
 
-## Project setup
+A Vue sample project
+
+## Setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Build and hot-reload for development
 ```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
+yarn start
 ```
 
-### Lints and fixes files
+### Build for production
 ```
-yarn run lint
+yarn build
 ```
 
-### Run your unit tests
+### Lint and fixe files
 ```
-yarn run test:unit
+yarn lint
+```
+
+### Run unit tests
+```
+yarn test:unit
 ```
