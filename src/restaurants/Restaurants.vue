@@ -34,6 +34,7 @@ export default class Restaurants extends Vue {
 
 <style lang="scss">
 #restaurants {
+    padding: 0;
     height: 71vh;
     overflow: auto;
     list-style-type: none;

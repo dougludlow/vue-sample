@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "/vue-sample/precache-manifest.cee7e231832d4491f9a399933d01b5c0.js"
+  "/vue-sample/precache-manifest.abff2169927e3dac2dd0d6884418294e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "restaurantr"});
